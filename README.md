@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Pranit Patil
-**A passionate Data Analytics **
+**A passionate Data Analytics | GenAI **
 
 Email Me 👉 ✉️ **pranitp695@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Sales Performance & Profitability Dashboards
-- 🌱 **I’m currently learning:** Data Analytics
+- 🌱 **I’m currently learning:** Data Analytics, LLM, RAG, LangChain
 - 🤔 **I’m looking for help with:** Your project here
 - 📫 **How to reach me:** pranitp695@gmail.com **
 - 😄 **Pronouns:** He/Him **
