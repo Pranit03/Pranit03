@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **pranitp695@gmail.com** For Collaboration/Project or Anyth
 
 - 🔭 **I’m currently working on:** Sales Performance & Profitability Dashboards
 - 🌱 **I’m currently learning:** Data Analytics, LLM, RAG, LangChain
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** 
 - 📫 **How to reach me:** pranitp695@gmail.com **
 - 😄 **Pronouns:** He/Him **
 - ⚡ **Fun fact:**
