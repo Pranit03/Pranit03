@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **pranitp695@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI Business Copilot
-- 🌱 **I’m currently learning:** Data Analytics, LLM, RAG, LangChain
+- 🌱 **I’m currently learning:** Data Analytics, LLM, RAG, LangChain.
 - 📫 **How to reach me:** pranitp695@gmail.com **
 - 😄 **Pronouns:** He/Him **
 - ⚡ **Fun fact:**
